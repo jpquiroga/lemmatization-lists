@@ -29,7 +29,16 @@ These are plain text files (zipped). Each line contains one lemma/token pair sep
 - Ukrainian (uk) (193,703 pairs)
 - Welsh (cy) (359,224 pairs)
 
-Licence
+## Python Code
+
+Based on the former lemmatization resources Python code has been added at [src](./src).
+
+__TODO__: 
+Add POS based lemmatization
+
+------
+
+License
 
 - Available under the [Open Database License](http://opendatacommons.org/licenses/odbl/summary/)
 
