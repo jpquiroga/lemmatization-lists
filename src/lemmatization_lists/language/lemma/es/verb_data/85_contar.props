@@ -1,0 +1,5 @@
+[DEF]
+# Suffix to strip during generation
+suffix=ontar
+# Verbs
+verbs=contar,descontar,discontar,recontar

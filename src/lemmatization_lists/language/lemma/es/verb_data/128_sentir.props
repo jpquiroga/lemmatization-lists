@@ -1,0 +1,5 @@
+[DEF]
+# Suffix to strip during generation
+suffix=entir
+# Verbs
+verbs=arrepentir,arrepentirse,asentir,consentir,desconsentir,desmentir,disentir,mentir,presentir,resentir,resentirse,repentir,repentirse,sentir

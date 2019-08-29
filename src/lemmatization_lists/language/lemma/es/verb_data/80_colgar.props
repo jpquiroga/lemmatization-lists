@@ -1,0 +1,5 @@
+[DEF]
+# Suffix to strip during generation
+suffix=olgar
+# Verbs
+verbs=acolgar,colgar,decolgar,descolgar,folgar,holgar,resolgar

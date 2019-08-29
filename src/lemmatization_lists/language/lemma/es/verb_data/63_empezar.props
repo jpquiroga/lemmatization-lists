@@ -1,0 +1,5 @@
+[DEF]
+# Suffix to strip during generation
+suffix=ezar
+# Verbs
+verbs=desentropezar,despezar,empezar,entropezar,estropezar,trompezar,tropezar

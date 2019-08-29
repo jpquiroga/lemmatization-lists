@@ -1,0 +1,5 @@
+[DEF]
+# Suffix to strip during generation
+suffix=estir
+# Verbs
+verbs=degestir,digestir,embestir,desvestir,envestir,investir,prestir,sobrevestir,revestir,travestir,travestirse,vestir

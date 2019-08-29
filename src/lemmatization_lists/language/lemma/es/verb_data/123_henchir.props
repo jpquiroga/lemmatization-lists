@@ -1,0 +1,5 @@
+[DEF]
+# Suffix to strip during generation
+suffix=enchir
+# Verbs
+verbs=fenchir,henchir,rehenchir

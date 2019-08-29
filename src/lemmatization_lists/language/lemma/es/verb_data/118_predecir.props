@@ -1,0 +1,5 @@
+[DEF]
+# Suffix to strip during generation
+suffix=ecir
+# Verbs
+verbs=antedecir,condecir,entredecir,esperdecir,esperecir,infecir,interdecir,predecir

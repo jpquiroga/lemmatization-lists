@@ -1,0 +1,5 @@
+[DEF]
+# Suffix to strip during generation
+suffix=ernar
+# Verbs
+verbs=apernar,desgobernar,desinvernar,despernar,entrepernar,gobernar,infernar,invernar

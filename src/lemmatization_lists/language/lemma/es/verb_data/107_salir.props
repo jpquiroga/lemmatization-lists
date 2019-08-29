@@ -1,0 +1,5 @@
+[DEF]
+# Suffix to strip during generation
+suffix=ir
+# Verbs
+verbs=resalir,salir,sobresalir

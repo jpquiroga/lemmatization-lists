@@ -1,0 +1,5 @@
+[DEF]
+# Suffix to strip during generation
+suffix=ostar
+# Verbs
+verbs=acostar,acostarse,apostar,costar,denostar,descostar,descostarse,encostar,encostarse,recostar,retostar,tostar

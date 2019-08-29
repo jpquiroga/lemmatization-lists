@@ -1,0 +1,5 @@
+[DEF]
+# Suffix to strip during generation
+suffix=bir
+# Verbs
+verbs=adscribir,circunescribir,circunscribir,describir,escribir,inscribir,manuscribir,reescribir,prescribir,proscribir,reinscribir,rescribir,retranscribir,sobrescribir,sobreescribir,suscribir,transcribir,trascribir,subscribir

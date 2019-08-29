@@ -1,0 +1,5 @@
+[DEF]
+# Suffix to strip during generation
+suffix=ocar
+# Verbs
+verbs=clocar,enclocar,enrocar,enrocarse,trocar,trastrocar

@@ -1,0 +1,5 @@
+[DEF]
+# Suffix to strip during generation
+suffix=uir
+# Verbs
+verbs=distinguir,extinguir

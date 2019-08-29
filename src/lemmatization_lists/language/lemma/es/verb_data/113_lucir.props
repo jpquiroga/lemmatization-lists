@@ -1,0 +1,5 @@
+[DEF]
+# Suffix to strip during generation
+suffix=cir
+# Verbs
+verbs=deslucir,enlucir,entrelucir,lucir,prelucir,relucir,traslucir,traslucirse,translucir,translucirse

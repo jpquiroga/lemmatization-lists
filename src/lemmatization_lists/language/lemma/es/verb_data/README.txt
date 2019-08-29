@@ -1,0 +1,1 @@
+See http://conjugador.reverso.net/conjugacion-rules-modelo-espanol-sort1.html

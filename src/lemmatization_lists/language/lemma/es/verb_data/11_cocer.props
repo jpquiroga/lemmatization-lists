@@ -1,0 +1,5 @@
+[DEF]
+# Suffix to strip during generation
+suffix=ocer
+# Verbs
+verbs=cocer,descocer,escocer,recocer

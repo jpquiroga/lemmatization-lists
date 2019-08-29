@@ -1,0 +1,5 @@
+[DEF]
+# Suffix to strip during generation
+suffix=ir
+# Verbs
+verbs=abolir,agredir,aguerrir,arrecir,arrecirse,aterir,aterirse,blandir,balbucir,concernir,colorir,descolorir,despavorir,empedernir,garantir,manir,trasgredir,transgredir

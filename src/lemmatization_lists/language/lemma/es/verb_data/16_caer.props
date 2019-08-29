@@ -1,0 +1,5 @@
+[DEF]
+# Suffix to strip during generation
+suffix=er
+# Verbs
+verbs=caer,acaer,descaer,mantecaer,decaer,recaer

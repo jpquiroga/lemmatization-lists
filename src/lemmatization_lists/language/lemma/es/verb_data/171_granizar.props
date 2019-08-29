@@ -1,0 +1,5 @@
+[DEF]
+# Suffix to strip during generation
+suffix=zar
+# Verbs
+verbs=granizar

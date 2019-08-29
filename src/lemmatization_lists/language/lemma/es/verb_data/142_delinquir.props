@@ -1,0 +1,5 @@
+[DEF]
+# Suffix to strip during generation
+suffix=quir
+# Verbs
+verbs=delinquir,derelinquir,derrelinquir,faquir,jaquir,muquir,vesquir

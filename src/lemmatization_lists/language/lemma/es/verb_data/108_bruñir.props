@@ -1,0 +1,5 @@
+[DEF]
+# Suffix to strip during generation
+suffix=ir
+# Verbs
+verbs=bruñir,bullir,descabullir,descabullirse,escabullir,engullir,gañir,gruñir,mullir,plañir,rebullir,restriñir,tullir,zambullir

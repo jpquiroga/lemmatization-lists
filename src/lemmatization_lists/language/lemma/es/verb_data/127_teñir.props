@@ -1,0 +1,5 @@
+[DEF]
+# Suffix to strip during generation
+suffix=eñir
+# Verbs
+verbs=afreñir,astreñir,ceñir,costreñir,constreñir,desceñir,desteñir,estreñir,heñir,receñir,reñir,reteñir,teñir

@@ -1,0 +1,5 @@
+[DEF]
+# Suffix to strip during generation
+suffix=cir
+# Verbs
+verbs=aducir,autoreproducir,conducir,coproducir,deducir,educir,inducir,introducir,nucir,producir,reconducir,reducir,reintroducir,reproducir,retraducir,sobreproducir,seducir,traducir

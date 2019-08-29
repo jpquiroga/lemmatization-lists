@@ -1,0 +1,5 @@
+[DEF]
+# Suffix to strip during generation
+suffix=ener
+# Verbs
+verbs=abstener,abstenerse,atener,atenerse,autosostenerse,contener,detener,entretener,mantener,manutener,obtener,retener,sostener,tener

@@ -1,0 +1,5 @@
+[DEF]
+# Suffix to strip during generation
+suffix=orcer
+# Verbs
+verbs=atorcer,destorcer,torcer,contorcer,estorcer,contorcerse,retorcer

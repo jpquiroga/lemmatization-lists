@@ -1,0 +1,5 @@
+[DEF]
+# Suffix to strip during generation
+suffix=eir
+# Verbs
+verbs=beateír,desleír,engreír,esleír,freír,hazmerreír,refreír,reír,sofreír,sonreír
