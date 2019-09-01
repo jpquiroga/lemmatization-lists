@@ -1,0 +1,1 @@
+from .lemmatizers import DictionaryLemmatizer, SpanishPosLemmatizer
