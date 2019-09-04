@@ -169,9 +169,15 @@ class SpanishPosLemmatizer(Lemmatizer):
         """
         lemmas = self.dict_lemmatizer.get_lemma(word)
         if is_verb:
-            return [l for l in lemmas if l in self.infinitives]
+            res = [l for l in lemmas if l in self.infinitives]
+            if res == None or len(res) == 0:
+                return [word]
+            return res
         else:
-            return [l for l in lemmas if l not in self.infinitives]
+            res = [l for l in lemmas if l not in self.infinitives]
+            if res == None or len(res) == 0:
+                return [word]
+            return res
 
     def _get_pos(self, parsed_sentence: Doc) -> List[Text]:
         """
