@@ -29,12 +29,24 @@ These are plain text files (zipped). Each line contains one lemma/token pair sep
 - Ukrainian (uk) (193,703 pairs)
 - Welsh (cy) (359,224 pairs)
 
-## Python Code
+## Python library
 
-Based on the former lemmatization resources Python code has been added at [src](./src).
+A Python library to use dictionary-dictionary based lemmatizers is under development.
+A minimalistic base abstract class is defined:
 
-__TODO__: 
-Add POS based lemmatization
+- [Lemmatizer](./src/lemmatization_lists/lemmatizers.py)
+  
+### Lemmatizers
+
+Currently available lemmatizers:
+
+- [SpanishPosLemmatizer](./src/lemmatization_lists/lemmatizers.py): Spanish lemmatizer based on POS tagging, using Spacy.
+  
+  Additional code and resources involving Spanish verbal forms has been added to [lemmatization_lists.language.lemma](./src/lemmatization_lists/language/lemma),
+  including a flexioned verbs data base export.
+  **TODO**: Document the databse schema.
+  
+
 
 ------
 
