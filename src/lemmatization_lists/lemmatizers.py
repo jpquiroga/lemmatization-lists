@@ -148,7 +148,7 @@ class DictionaryLemmatizer(Lemmatizer):
 
 class SpanishPosLemmatizer(Lemmatizer):
     """
-    Spanish lemmatizer based on POS tagging (using Spacy).
+    Spanish lemmatizer based on POS tagging, using Spacy.
     """
 
     VERB_POS_TAGS = {
